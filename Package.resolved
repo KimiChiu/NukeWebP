@@ -12,11 +12,11 @@
       },
       {
         "package": "Nuke",
-        "repositoryURL": "https://github.com/kean/Nuke.git",
+        "repositoryURL": "https://github.com/KimiChiu/Nuke.git",
         "state": {
           "branch": null,
-          "revision": "0d8a0dc3cca7432a6772ec546a7e5e1b20103bda",
-          "version": "11.3.0"
+          "revision": "b187456fffa045e7dfc03fec1db86164ae0c0dc1",
+          "version": "11.5.3"
         }
       }
     ]
